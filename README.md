@@ -33,8 +33,8 @@ Esta é minha solução para o desafio [Social links profile](https://www.fronte
 
 ### Links
 
-- Projeto URL: [Repositório GitHub](https://github.com/CaioLopes5556/)
-- Live Site: [Deploy do Projeto](https://caiolopes5556.github.io/)
+- Projeto URL: [Repositório GitHub](https://github.com/CaioLopes5556/MySolution-social-links-profile-main)
+- Live Site: [Deploy do Projeto](https://caiolopes5556.github.io/MySolution-social-links-profile-main/)
 
 ## Sobre o projeto
 
